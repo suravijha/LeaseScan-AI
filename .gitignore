@@ -1,1 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
 .streamlit/secrets.toml
+lease_history.db
+.DS_Store
